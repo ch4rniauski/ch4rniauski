@@ -2,7 +2,7 @@
 I'm just a usual backend developer from Belarus.
 
 - 🌱 I’m currently learning C#, ASP .NET CORE.
-- 📫 How to reach me: `chernyavskij.z@mail.ru` is my Mail, [LinkedIn](https://www.linkedin.com/in/charniauski-yauheni/)
+- 📫 How to reach me: `chernyavskij.z@mail.ru` is my Mail, [LinkedIn](https://www.linkedin.com/in/charniauski-yauheni/).
 - ⚡ Fun fact: I'm doing athletics since i was 10 years old.
 
 ### Tech stack
