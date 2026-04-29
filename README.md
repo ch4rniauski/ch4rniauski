@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Yauheni Charniauski
 I'm just a usual backend developer from Belarus.
 
-- 🌱 I’m currently learning C#, ASP .NET CORE.
+- 🌱 I’m currently learning C#, ASP .NET CORE, Go.
 - 📫 How to reach me: `chernyavskij.z@mail.ru` is my Mail, [LinkedIn](https://www.linkedin.com/in/charniauski-yauheni/).
 - ⚡ Fun fact: I'm doing athletics since i was 10 years old.
 
